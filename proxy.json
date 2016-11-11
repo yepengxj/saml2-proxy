@@ -1,7 +1,7 @@
 
 {
     // run proxy on this port. Default is 3000, can be overriden with PORT environment variable
-    "port" : 3000,
+    "port" : 80,
     // protocol the proxy uses. Can be 'http' or 'https'
     "externalProtocol" : "http",
     // only required if externalProtocol === 'https'
